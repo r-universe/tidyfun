@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/tidyfun/tidyfun.r-universe.dev
 	branch = HEAD
 [submodule "tf"]
 	path = tf
 	url = https://github.com/tidyfun/tf
+[submodule "tidyfun"]
+	path = tidyfun
+	url = https://github.com/tidyfun/tidyfun
